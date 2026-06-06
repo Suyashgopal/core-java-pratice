@@ -12,7 +12,7 @@ javac HelloJava.java
 java HelloJava
 ```
 
-## files and what they do
+## Contents
 
 - HelloJava.java - my first program, prints hello
 - DataTypesAndVariables.java - int, double, char etc and type casting
